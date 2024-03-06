@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "983103433432",
+    "project_id": "money-tracker-b1691",
+    "storage_bucket": "money-tracker-b1691.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:983103433432:android:aab654cd9d0c58884c05ad",
+        "android_client_info": {
+          "package_name": "com.example.diplom_money_tracker"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDsfgYsZnhbojYDNt2y--rvZhpHUbVKok0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
